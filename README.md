@@ -57,13 +57,14 @@ Uygulamayı tek bir çalıştırılabilir dosya (.exe) haline getirmek için şu
 ```bash
 pyinstaller --noconsole --onefile --icon=app_icon.ico --add-data "app_icon.ico;." main.py
 Not: Bu komut, ikon dosyasını exe'nin içine gömer ve dist klasöründe çalışmaya hazır bir dosya oluşturur.
+```
 
 
 
-🧠 Koddan Kesitler (Algoritma)
+🧠 Koddan Kesitler
 Projenin kalbi olan "Yavaşlama Animasyonu" mantığı:
 
-Python
+```Python
 
 def on_timer_tick(self):
     # ...
@@ -75,6 +76,7 @@ def on_timer_tick(self):
     if self.counter > self.MIN_STEPS and self.current_speed >= 500:
         self.timer.stop()
         # ... Kazananı ilan et
+```
 
 
 🤝 Katkıda Bulunma
@@ -88,4 +90,4 @@ Dalınızı Push edin (git push origin feature/YeniOzellik).
 
 Bir Pull Request oluşturun.
 
-Developed with ❤️ by [Senin Adın]
+Developed with ❤️ by Süleyman :)
