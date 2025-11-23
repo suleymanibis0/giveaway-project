@@ -79,15 +79,16 @@ def on_timer_tick(self):
 ```
 
 
-🤝 Katkıda Bulunma
-Bu projeyi Fork'layın.
+🤝 **Katkıda Bulunma**
 
-Yeni bir özellik dalı (branch) oluşturun (git checkout -b feature/YeniOzellik).
+-> Bu projeyi Fork'layın.
 
-Değişikliklerinizi commit edin (git commit -m 'Yeni özellik eklendi').
+-> Yeni bir özellik dalı (branch) oluşturun (git checkout -b feature/YeniOzellik).
 
-Dalınızı Push edin (git push origin feature/YeniOzellik).
+-> Değişikliklerinizi commit edin (git commit -m 'Yeni özellik eklendi').
 
-Bir Pull Request oluşturun.
+-> Dalınızı Push edin (git push origin feature/YeniOzellik).
+
+-> Bir Pull Request oluşturun.
 
 Developed with ❤️ by Süleyman :)
