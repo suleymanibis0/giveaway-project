@@ -61,7 +61,8 @@ Not: Bu komut, ikon dosyasını exe'nin içine gömer ve dist klasöründe çal�
 
 
 
-🧠 Koddan Kesitler
+🧠 **Koddan Kesitler**
+
 Projenin kalbi olan "Yavaşlama Animasyonu" mantığı:
 
 ```Python
