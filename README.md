@@ -59,9 +59,7 @@ pyinstaller --noconsole --onefile --icon=app_icon.ico --add-data "app_icon.ico;.
 Not: Bu komut, ikon dosyasını exe'nin içine gömer ve dist klasöründe çalışmaya hazır bir dosya oluşturur.
 ```
 
-
-
-🧠 **Koddan Kesitler**
+## 🧠 Koddan Kesitler
 
 Projenin kalbi olan "Yavaşlama Animasyonu" mantığı:
 
@@ -79,8 +77,7 @@ def on_timer_tick(self):
         # ... Kazananı ilan et
 ```
 
-
-🤝 **Katkıda Bulunma**
+## 🤝 Katkıda Bulunma
 
 -> Bu projeyi Fork'layın.
 
