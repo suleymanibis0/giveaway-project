@@ -7,7 +7,7 @@
 **Python ve PyQt6 kullanılarak geliştirilmiş, modern arayüze sahip, animasyonlu ve veri kalıcılığı (persistence) sağlayan masaüstü çekiliş uygulaması.**
 
 <p align="center">
-  <img src="SCREENSHOT_LINKI_BURAYA" alt="Uygulama Ekran Görüntüsü" width="600">
+  <img src="https://github.com/suleymanibis0/giveaway-project/blob/main/screenshots/app.png" alt="Uygulama Ekran Görüntüsü" width="600">
 </p>
 
 ## 🚀 Proje Hakkında
